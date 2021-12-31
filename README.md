@@ -3,5 +3,5 @@ Terraform files for spinning up cloud infrastructure on AWS for the tooling webs
 
 
 # Architectural Diagram
-- Project Architectural diagram - ![](imgs/architecture-diagram.png)
+- Project Architectural diagram - ![](pbl/imgs/architecture-diagram.png)
 
